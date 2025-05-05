@@ -1,3 +1,5 @@
+![f851b65c6bd57b0f66dd12f31e26123507cb18da_hq](https://github.com/user-attachments/assets/e2414aac-d753-4a4c-8e18-6bf813b5b0a3)
+
 # **SWS - WebShell Scanner**  
 **A PowerShell tool to detect webshells in mass domains.** 
 SWS is a simple yet powerful tool used to detect webshell files in bulk across multiple domains. This tool is designed to help administrators, security researchers, and IT teams find potential compromises on websites, especially those using CMS such as WordPress, Joomla, and others. Using a combination of hundreds of common paths and popular shell file names, this tool automatically builds thousands of target URLs and examines server responses to identify suspicious files.
