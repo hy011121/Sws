@@ -67,10 +67,12 @@ graph TD
     M --> O["scan_results.txt"]
     N --> O
 ```
+---
+
+Only use on systems you own or have permission to scan.** Unauthorized testing may violate laws.
+
+Contact: [https://t.me/Ox6218]  
+
+this tool can still be developed further, i just made it simple
 
 ---
-Only use on systems you own or have permission to scan.** Unauthorized testing may violate laws.  
---- 
-Contact: [https://t.me/Ox6218]  
-*this tool can still be developed further, i just made it simple
---- 
